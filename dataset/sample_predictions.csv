@@ -1,0 +1,26 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_01,25256.0,affordable_now,full_payment,2024-03-03:25256.0,2024-03-03,none,Pay ZAR 25256.0 today. This leaves at least ZAR 18000.0 available over the next 90 days.
+request_02,18275471.14,affordable_with_plan,installments,2025-08-08:15952906.67|2025-09-07:15952906.67|2025-10-07:15952906.67,2025-08-15,none,"Use 3 installments of IDR 15952906.67, starting 2025-08-08. This maintains the IDR 29158400.0 minimum balance."
+request_03,1072361.2,affordable_later,wait,2019-09-18:5491000.0,2019-09-18,none,Wait until confirmed salary on 2019-09-18 to pay IDR 5491000.0 in full. Paying today would breach the IDR 2668700.0 minimum.
+request_04,12574026.99,affordable_with_plan,full_payment,2024-06-04:12693000.0,2024-06-15,reduce_to:event_290:692550.0,"Adjust flexible spending (reduce_to:event_290:692550.0), then pay IDR 12693000.0 today while keeping IDR 30686600.0 protected."
+request_05,15488.0,affordable_now,full_payment,2025-11-06:15488.0,2025-11-06,none,Pay ZAR 15488.0 today. This leaves at least ZAR 13100.0 available over the next 90 days.
+request_06,620.4,affordable_now,full_payment,2026-01-03:620.4,2026-01-03,none,Pay EUR 620.4 today. This leaves at least EUR 800.0 available over the next 90 days.
+request_07,91951.3,affordable_with_plan,installments,2024-09-12:68432.0|2024-10-10:68432.0|2024-11-07:68432.0,2024-09-23,none,"Use 3 installments of INR 68432.0, starting 2024-09-12. This maintains the INR 93000.0 minimum balance."
+request_08,269.38,affordable_later,wait,2025-02-15:996.6,2025-02-15,none,Wait until confirmed salary on 2025-02-15 to pay EUR 996.6 in full. Paying today would breach the EUR 800.0 minimum.
+request_09,166.61,affordable_now,full_payment,2026-07-04:166.61,2026-07-04,none,Pay EUR 166.61 today. This leaves at least EUR 600.0 available over the next 90 days.
+request_10,266700.0,not_affordable,not_recommended,none,,none,Cannot safely complete INR 266700.0 by 2025-02-10 without dipping below the INR 225400.0 minimum balance.
+request_11,13110000.0,affordable_now,full_payment,2025-05-03:13110000.0,2025-05-03,none,Pay IDR 13110000.0 today. This leaves at least IDR 34140600.0 available over the next 90 days.
+request_12,65164.0,affordable_with_plan,installments,2026-04-19:22590.19|2026-05-20:22590.19|2026-06-20:22590.19,2026-04-05,none,"Use 3 installments of ZAR 22590.19, starting 2026-04-19. This maintains the ZAR 43200.0 minimum balance."
+request_13,941.6,affordable_now,full_payment,2024-03-07:941.6,2024-03-07,none,Pay EUR 941.6 today. This leaves at least EUR 1300.0 available over the next 90 days.
+request_14,907.79,affordable_with_plan,partial_payment,2025-08-04:907.79|2025-08-15:4506.41,2025-08-15,none,Pay EUR 907.79 today and remaining EUR 4506.41 on 2025-08-15. This protects the EUR 2200.0 minimum.
+request_15,48.62,not_affordable,not_recommended,none,,none,Cannot safely complete EUR 3685.0 by 2026-02-01 without dipping below the EUR 1200.0 minimum balance.
+request_16,122500.0,affordable_now,full_payment,2023-08-12:122500.0,2023-08-12,none,Pay INR 122500.0 today. This leaves at least INR 122400.0 available over the next 90 days.
+request_17,234414.3,affordable_with_plan,installments,2026-03-01:95194.67|2026-03-31:95194.67|2026-04-30:95194.67,2026-03-15,none,"Use 3 installments of INR 95194.67, starting 2026-03-01. This maintains the INR 166100.0 minimum balance."
+request_18,610.37,affordable_later,wait,2026-07-15:3246.1,2026-07-15,none,Wait until confirmed salary on 2026-07-15 to pay EUR 3246.1 in full. Paying today would breach the EUR 1400.0 minimum.
+request_19,35131.31,affordable_with_plan,installments,2024-09-04:20623.2|2024-10-02:20623.2,2024-09-15,none,"Use 2 installments of INR 20623.2, starting 2024-09-04. This maintains the INR 92800.0 minimum balance."
+request_20,13740.97,affordable_later,wait,2026-02-15:303700.0,2026-02-15,none,Wait until confirmed salary on 2026-02-15 to pay INR 303700.0 in full. Paying today would breach the INR 64500.0 minimum.
+request_21,1574.4,affordable_now,full_payment,2026-04-03:1574.4,2026-04-03,none,Pay USD 1574.4 today. This leaves at least USD 1800.0 available over the next 90 days.
+request_22,483.03,affordable_with_plan,installments,2024-12-08:253.59|2025-01-05:253.59|2025-02-02:253.59,2024-12-15,none,"Use 3 installments of EUR 253.59, starting 2024-12-08. This maintains the EUR 500.0 minimum balance."
+request_23,9848.15,affordable_later,wait,2025-05-15:38016.0,2025-05-15,none,Wait until confirmed salary on 2025-05-15 to pay ZAR 38016.0 in full. Paying today would breach the ZAR 27000.0 minimum.
+request_24,18206.78,affordable_with_plan,partial_payment,2026-01-04:18206.78|2026-01-15:91393.22,2026-01-15,none,Pay INR 18206.78 today and remaining INR 91393.22 on 2026-01-15. This protects the INR 51000.0 minimum.
+request_25,2756785.68,affordable_later,wait,2024-03-15:60496000.0,2024-03-15,none,Wait until confirmed salary on 2024-03-15 to pay IDR 60496000.0 in full. Paying today would breach the IDR 23379100.0 minimum.
